@@ -11,6 +11,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        jost: ["var(--font-jost)", "sans-serif"], // Jost font
+        caveat: ["var(--font-caveat)", "cursive"], // Caveat font
+      },
     },
   },
   plugins: [],
