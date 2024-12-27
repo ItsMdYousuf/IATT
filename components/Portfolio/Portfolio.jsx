@@ -15,7 +15,6 @@ const Portfolio = () => {
         <PortfolioCard />
         <PortfolioCard />
         <PortfolioCard />
-        <PortfolioCard />
       </div>
     </section>
   );

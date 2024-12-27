@@ -1,0 +1,10 @@
+.icon__underline {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 1px;
+  width: 30px;
+  content: "";
+  transform: translate(30px, 20px);
+  @apply bg-gray-300;
+}
